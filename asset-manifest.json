@@ -1,15 +1,15 @@
 {
-  "main.css": "/nhentai-generator/static/css/main.7c2c537e.chunk.css",
-  "main.js": "/nhentai-generator/static/js/main.702fd788.chunk.js",
-  "main.js.map": "/nhentai-generator/static/js/main.702fd788.chunk.js.map",
-  "runtime~main.js": "/nhentai-generator/static/js/runtime~main.d9c16c5e.js",
-  "runtime~main.js.map": "/nhentai-generator/static/js/runtime~main.d9c16c5e.js.map",
-  "static/js/2.9ab4da66.chunk.js": "/nhentai-generator/static/js/2.9ab4da66.chunk.js",
-  "static/js/2.9ab4da66.chunk.js.map": "/nhentai-generator/static/js/2.9ab4da66.chunk.js.map",
-  "index.html": "/nhentai-generator/index.html",
-  "precache-manifest.65ed26f68555dc6ff567bbe84c484439.js": "/nhentai-generator/precache-manifest.65ed26f68555dc6ff567bbe84c484439.js",
-  "service-worker.js": "/nhentai-generator/service-worker.js",
-  "static/css/main.7c2c537e.chunk.css.map": "/nhentai-generator/static/css/main.7c2c537e.chunk.css.map",
-  "static/media/FBI.jpg": "/nhentai-generator/static/media/FBI.f6d0b937.jpg",
-  "static/media/nhen.png": "/nhentai-generator/static/media/nhen.6679bf44.png"
+  "main.css": "/static/css/main.7c2c537e.chunk.css",
+  "main.js": "/static/js/main.9e24df0e.chunk.js",
+  "main.js.map": "/static/js/main.9e24df0e.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.9ab4da66.chunk.js": "/static/js/2.9ab4da66.chunk.js",
+  "static/js/2.9ab4da66.chunk.js.map": "/static/js/2.9ab4da66.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.5c726a34f1bdbf2e23b91705afc9badf.js": "/precache-manifest.5c726a34f1bdbf2e23b91705afc9badf.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.7c2c537e.chunk.css.map": "/static/css/main.7c2c537e.chunk.css.map",
+  "static/media/FBI.jpg": "/static/media/FBI.f6d0b937.jpg",
+  "static/media/nhen.png": "/static/media/nhen.6679bf44.png"
 }
