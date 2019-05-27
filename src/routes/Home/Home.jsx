@@ -67,7 +67,7 @@ class Home extends Component {
     // make cover image scr url
     const cover_type = { j: "jpg", p: "png" };
     const this_type = image.t;
-    return `https://kontol.nhent.ai/galleries/${media}/cover.${
+    return `https://t.nhent.ai/galleries/${media}/cover.${
       cover_type[this_type]
     }`;
   }
