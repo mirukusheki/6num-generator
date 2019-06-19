@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://random.nhent.ai",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "bootstrap": "^4.3.1",
     "gh-pages": "^2.0.1",
     "node-sass": "^4.11.0",
