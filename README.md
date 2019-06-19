@@ -1,5 +1,5 @@
 <h1>nHentai Generator</h1>
-Created By: Miruku Sheki
+Created By: Ryuujo
 
 <h3>WARNING MATURE CONTENT! Mengandung muatan konten negatif! Dilarang keras mengakses website ini jika anda belum berumur 18 tahun keatas!</h3>
 
@@ -8,5 +8,5 @@ Kamu hanya perlu klik tombol Acak dan website ini akan menyediakan kamu 6 digit 
 
 <hr/>
 
-Program ini dibuat oleh Miruku Sheki, mengunakan framework ReactJS
+Program ini dibuat oleh Ryuujo, mengunakan framework ReactJS
 Dapat diakses melalui HP dan PC
