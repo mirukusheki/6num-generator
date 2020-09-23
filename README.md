@@ -1,4 +1,6 @@
+<h1>Project already deprecated!</h1>
 <h1>nHentai Generator</h1>
+
 Created By: Ryuujo
 
 <h3>WARNING MATURE CONTENT! Mengandung muatan konten negatif! Dilarang keras mengakses website ini jika anda belum berumur 18 tahun keatas!</h3>
